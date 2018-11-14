@@ -7,6 +7,7 @@ prebuilt_cxx_library(
   ]), 
   deps = [
     'buckaroo.github.buckaroo-pm.boost-config//:config', 
+    'buckaroo.github.buckaroo-pm.boost-core//:core', 
     'buckaroo.github.buckaroo-pm.boost-detail//:detail', 
     'buckaroo.github.buckaroo-pm.boost-preprocessor//:preprocessor', 
   ], 
