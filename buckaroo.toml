@@ -1,0 +1,5 @@
+targets = ["//:utility"]
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-config"
+version = "1.16.1"
